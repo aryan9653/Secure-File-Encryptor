@@ -24,7 +24,7 @@ Encrypt and decrypt files effortlessly with **password-based encryption** using 
 | `tkinterdnd2` | Drag & Drop functionality |
 | `Cryptography` | AES-256 encryption |
 
------
+---
 
 ## 🚀 **Setup & Installation**
 ### **1️⃣ Clone the Repository**
