@@ -13,7 +13,7 @@ Encrypt and decrypt files effortlessly with **password-based encryption** using 
 ✅ **Modern UI with `ttkbootstrap`**    
 ✅ **Supports Any File Type** (PDF, Images, Docs, etc.)
 
----
+--------
 
 ## 🛠 **Tech Stack**
 | Tech | Description |
